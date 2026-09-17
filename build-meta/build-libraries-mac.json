@@ -8,6 +8,8 @@
     "php",
     "bzip2",
     "openssl",
+    "gmp",
+    "libsodium",
     "curl",
     "onig",
     "sqlite",
