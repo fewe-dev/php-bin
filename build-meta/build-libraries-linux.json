@@ -8,6 +8,8 @@
     "openssl",
     "libiconv",
     "libxml2",
+    "gmp",
+    "libsodium",
     "curl",
     "onig",
     "sqlite",
